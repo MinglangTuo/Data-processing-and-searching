@@ -1,0 +1,2 @@
+# Data-processing-and-searching
+这个项目主要是利用apache基金会两个开源子项目Lucene和poi来完成，对于推特上的数据进行处理和分析，并且尝试自己建立相关搜索工具来搜索相关内容
