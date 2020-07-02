@@ -52,4 +52,10 @@ T3-4: It prints search information based on string matching.
 T3-5: It prints search information based on full text searching using Lucene.
 ![image](https://media.giphy.com/media/PhBjLu0eQIkjYZ2QbH/giphy.gif)
 
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
