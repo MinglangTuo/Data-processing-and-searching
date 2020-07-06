@@ -41,17 +41,16 @@ Effective tweet searching is an important functionality for users, especially wh
 
 ## Usage
 T3-2: It prints the top 10 popular tweets based on the Favs and RTs.  
-![image](https://media.giphy.com/media/l3sL4wNSk35zpIraSk/giphy.gif)
+<img src ="https://media.giphy.com/media/l3sL4wNSk35zpIraSk/giphy.gif">
 
 T3-3: It prints the top 10 popular users based on the Fans.  
-![image](https://media.giphy.com/media/gFJoPWsLzWtXIoN3V3/giphy.gif)
+<img src ="https://media.giphy.com/media/gFJoPWsLzWtXIoN3V3/giphy.gif">
 
 T3-4: It prints search information based on string matching.  
-![image](https://media.giphy.com/media/ggEngsaoMfoE00Z5qt/giphy.gif)
+<img src ="https://media.giphy.com/media/ggEngsaoMfoE00Z5qt/giphy.gif">
 
 T3-5: It prints search information based on full text searching using Lucene.  
-![image](https://media.giphy.com/media/PhBjLu0eQIkjYZ2QbH/giphy.gif)
-
+<img src ="https://media.giphy.com/media/PhBjLu0eQIkjYZ2QbH/giphy.gif">
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
